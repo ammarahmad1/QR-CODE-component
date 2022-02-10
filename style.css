@@ -1,0 +1,43 @@
+body{
+    background-color: #d5e1ef;
+}
+#main-page{
+    background-color: white;
+    height: 475px;
+    margin-top: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 328px;
+    border-radius: 8px;
+}
+
+#main-page img{
+    height: 274px;
+    
+    margin-left: 26px;
+    margin-right: auto;
+    margin-top: 21px;
+    border-radius: 8px;
+
+}
+.imp{
+    top: 0%;
+    font-size: 20px;
+    margin-left: 41px;
+    margin-right: 20px;
+    font-family: 'Outfit', sans-serif;
+    top: 0%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+.des{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
